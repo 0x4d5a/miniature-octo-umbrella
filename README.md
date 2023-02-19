@@ -20,5 +20,5 @@
 | Have | u | gone | insane | yet |
 
 
-<u>Credit where credit is due</u>
+<h3>Credit where credit is due</h3>
 Topics where referenced within this repo belongs to all respectively sourced authors.
