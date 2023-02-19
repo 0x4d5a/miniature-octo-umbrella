@@ -4,7 +4,7 @@
 
 | Principle | Description | Reference | 
 | --- | --- | --- |
-| `Explainability` | For without it, there is no purpose in reading further | <a href="https://www.reversinglabs.com/blog/introducing-explainable-threat-intelligence">Reversing Labs</a> |
+| `Explainability` | For without it, there is no purpose in reading any piece of information. | <a href="https://www.reversinglabs.com/blog/introducing-explainable-threat-intelligence">Reversing Labs</a> |
 | `BLUF` | Bottom line up front | <a href="https://en.wikipedia.org/wiki/BLUF_(communication)">Wikipedia</a> |
 
 <br>
