@@ -5,7 +5,7 @@
 | Fresh DNS Registers | `Collection` | Boil Ocean Class | Aggregate OSINT sources stage. Worry about FP/disinformation? |
 | Honeypot | `Collection` | Localised Noise Generator | Type of HP to deploy? Who is going to hit your HP? | 
 | pDNS | `Collection` | Boil Ocean Class | Passive or active mode? Where are you going to get a passive contributor? Legal concerns? |
-| pFlexibility | Collection | Boil Ocean Class | Option for non-structure, this-might-be-useful-but-i-dont-know-why pipeline |
-| pGluttony | Aggregation | Pain Reduction Class | lorem |
-| pSingularity | Explainaiblity | Value/Job Justification Class | lorem |
+| pFlexibility | `Collection` | Boil Ocean Class | Option for non-structure, this-might-be-useful-but-i-dont-know-why pipeline |
+| pGluttony | `Aggregation` | Pain Reduction Class | lorem |
+| pSingularity | `Explainability` | Value/Job Justification Class | lorem |
 | Have u | gone | insane | yet |
