@@ -1,12 +1,13 @@
 # miniature-octo-umbrella
 
 <h2>Key concepts</h2>
+
 | Principle | Description | Reference | 
 | --- | --- | --- |
 | `Explainability` | For without it, there is no purpose in reading further | <a href="https://www.reversinglabs.com/blog/introducing-explainable-threat-intelligence">Reversing Labs</a> |
 | `BLUF` | Bottom line up front | <a href="https://en.wikipedia.org/wiki/BLUF_(communication)">Wikipedia</a> |
 
-</br>
+<br>
 
 | Thread | Phase | Type | Coverage | Remarks |
 | --- | --- | --- | --- | --- |
