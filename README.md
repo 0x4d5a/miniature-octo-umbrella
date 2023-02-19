@@ -1,7 +1,7 @@
 # miniature-octo-umbrella
 
 | Thread | Phase | Type | Coverage | Remarks |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Fresh DNS Registers | `Collection` | Boil Ocean Class | Network | Aggregate OSINT sources stage. Worry about FP/disinformation? |
 | Honeypot | `Collection` | Localised Noise Generator | Network & Endpoint | Type of HP to deploy? Who is going to hit your HP? | 
 | pDNS | `Collection` | Boil Ocean Class | Network | Passive or active mode? Where are you going to get a passive contributor? Legal concerns? |
