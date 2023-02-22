@@ -5,7 +5,6 @@ Email Phishing,Silent Builder,2
 Silent Builder,Emotet,2
 Emotet,TA542_MummySpider,2
 Snake Keylogger,TA542_MummySpider,2
-Spearphishing with Attachment,Snake Keylogger,2
 Email Phishing,QakBot,2
 Email Phishing,SocGhoulish,4
 Email Phishing,Maze Ransomware Group,2
@@ -43,3 +42,4 @@ net user,REvil Ransomware Group,2
 net localgroup,REvil Ransomware Group,2
 wmic,REvil Ransomware Group,2
 xcopy,REvil Ransomware Group,2
+Spearphishing with Attachment,Snake Keylogger,2
