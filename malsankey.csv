@@ -16,7 +16,13 @@ Commands,xcopy,2
 DarkComet RAT,APT28 (Fancy Bear),2
 DarkComet RAT,Cobalt Strike,2
 Dridex Banking Trojan,Cobalt Strike,2
-Email Phishing,Maze Ransomware,2
+Email Phishing,Netwire RAT,2
+Email Phishing,Quasar RAT,2
+Email Phishing,njRAT,2
+Email Phishing,Remcos RAT,2
+Email Phishing,JSocket RAT,2
+Email Phishing,Lime RAT,2
+Email Phishing,AsyncRAT,2
 Email Phishing,QakBot (QBot),2
 Email Phishing,Redline Stealer,2
 Email Phishing,Silent Builder,2
