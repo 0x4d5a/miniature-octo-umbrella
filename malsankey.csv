@@ -1,0 +1,11 @@
+source,target,value
+Email phishing,Redline Stealer,2
+Email phishing,Trickbot,2
+Email phishing,Silent Builder,2
+Silent Builder,Emotet,2
+Emotet,TA542_MummySpider,2
+Snake Keylogger,TA542_MummySpider,2
+Email phishing,QakBot,2
+Email phishing,SocGhoulish,4
+Email Phishing,Maze Ransomware Group,2
+Remote Desktop Protocol (RDP) Exploits,Maze Ransomware Group,2
