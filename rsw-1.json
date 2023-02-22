@@ -1,0 +1,141 @@
+{
+  "name":"Ransomware Groups",
+  "children":[
+    {
+      "name":"Maze",
+      "children":[
+        {
+          "name":"TTPs",
+          "children":[
+            {
+              "name":"Phishing",
+              "url":"https://en.wikipedia.org/wiki/Phishing"
+            },
+            {
+              "name":"Remote Desktop Protocol (RDP) Exploits",
+              "url":"https://us-cert.cisa.gov/ncas/alerts/aa20-296a"
+            },
+            {
+              "name":"Software Vulnerabilities",
+              "url":"https://www.cisa.gov/publication/malware-analysis-report-mar-10132963a-maze"
+            },
+            {
+              "name":"Spearphishing with Attachment",
+              "url":"https://www.cisa.gov/news/2020/05/12/cisa-insights-ransomware-matter-business"
+            },
+            {
+              "name":"Spearphishing with Link",
+              "url":"https://www.cisa.gov/news/2020/05/12/cisa-insights-ransomware-matter-business"
+            }
+          ]
+        },
+        {
+          "name":"Tools",
+          "children":[
+            {
+              "name":"Cobalt Strike",
+              "url":"https://cobaltstrike.com/"
+            },
+            {
+              "name":"Mimikatz",
+              "url":"https://github.com/gentilkiwi/mimikatz"
+            },
+            {
+              "name":"PsExec",
+              "url":"https://docs.microsoft.com/en-us/sysinternals/downloads/psexec"
+            }
+          ]
+        },
+        {
+          "name":"Commands",
+          "children":[
+            {
+              "name":"net user",
+              "url":"https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/net-user"
+            },
+            {
+              "name":"net localgroup",
+              "url":"https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/net-localgroup"
+            },
+            {
+              "name":"wmic",
+              "url":"https://docs.microsoft.com/en-us/windows/win32/wmisdk/wmic"
+            },
+            {
+              "name":"xcopy",
+              "url":"https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name":"REvil",
+      "children":[
+        {
+          "name":"TTPs",
+          "children":[
+            {
+              "name":"Phishing",
+              "url":"https://en.wikipedia.org/wiki/Phishing"
+            },
+            {
+              "name":"Remote Desktop Protocol (RDP) Exploits",
+              "url":"https://us-cert.cisa.gov/ncas/alerts/aa20-296a"
+            },
+            {
+              "name":"Software Vulnerabilities",
+              "url":"https://www.cisa.gov/publication/malware-analysis-report-mar-10132963a-maze"
+            },
+            {
+              "name":"Spearphishing with Attachment",
+              "url":"https://www.cisa.gov/news/2020/05/12/cisa-insights-ransomware-matter-business"
+            },
+            {
+              "name":"Spearphishing with Link",
+              "url":"https://www.cisa.gov/news/2020/05/12/cisa-insights-ransomware-matter-business"
+            }
+          ]
+        },
+        {
+          "name":"Tools",
+          "children":[
+            {
+              "name":"Cobalt Strike",
+              "url":"https://cobaltstrike.com/"
+            },
+            {
+              "name":"Mimikatz",
+              "url":"https://github.com/gentilkiwi/mimikatz"
+            },
+            {
+              "name":"PsExec",
+              "url":"https://docs.microsoft.com/en-us/sysinternals/downloads/psexec"
+            }
+          ]
+        },
+        {
+          "name":"Commands",
+          "children":[
+            {
+              "name":"net user",
+              "url":"https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/net-user"
+            },
+            {
+              "name":"net localgroup",
+              "url":"https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/net-localgroup"
+            },
+            {
+              "name":"wmic",
+              "url":"https://docs.microsoft.com/en-us/windows/win32/wmisdk/wmic"
+            },
+            {
+              "name":"xcopy",
+              "url":"https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
