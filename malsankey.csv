@@ -114,7 +114,7 @@ wmic,Maze Ransomware,2
 wmic,Sodinokibi (REvil) Ransomware,2
 xcopy,Maze Ransomware,2
 xcopy,Sodinokibi (REvil) Ransomware,2
-Tool,PowerShell Empire,2
+Tools,PowerShell Empire,2
 PowerShell Empire,Invoke-Mimikatz,2
 PowerShell Empire,Invoke-Shellcode,2
 PowerShell Empire,Invoke-TokenManipulation,2
