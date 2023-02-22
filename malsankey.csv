@@ -209,3 +209,24 @@ wmic,Maze Ransomware,2
 wmic,Sodinokibi (REvil) Ransomware,2
 xcopy,Maze Ransomware,2
 xcopy,Sodinokibi (REvil) Ransomware,2
+Software Vulnerabilities,CVE-2019-19781 (Citrix ADC and Gateway RCE),2
+Software Vulnerabilities,CVE-2019-11510 (Pulse Secure VPN LPE),2
+Software Vulnerabilities,CVE-2020-1472 (Microsoft Windows Netlogon ACE),2
+Software Vulnerabilities,CVE-2018-13379 (Fortinet FortiOS LPE),2
+Software Vulnerabilities,CVE-2021-21972 (VMware vCenter Server RCE),2
+Software Vulnerabilities,CVE-2018-8453 (Microsoft Windows RCE),2
+Software Vulnerabilities,CVE-2021-20016 (Accellion File Transfer Appliance RCE),2
+CVE-2019-19781 (Citrix ADC and Gateway RCE),Maze Ransomware,2
+CVE-2019-11510 (Pulse Secure VPN LPE),Maze Ransomware,2
+CVE-2020-1472 (Microsoft Windows Netlogon ACE),Maze Ransomware,2
+CVE-2018-13379 (Fortinet FortiOS LPE),Maze Ransomware,2
+CVE-2021-21972 (VMware vCenter Server RCE),Maze Ransomware,2
+CVE-2018-8453 (Microsoft Windows RCE),Maze Ransomware,2
+CVE-2021-20016 (Accellion File Transfer Appliance RCE),Maze Ransomware,2
+CVE-2019-19781 (Citrix ADC and Gateway RCE),Sodinokibi (REvil) Ransomware,2
+CVE-2019-11510 (Pulse Secure VPN LPE),Sodinokibi (REvil) Ransomware,2
+CVE-2020-1472 (Microsoft Windows Netlogon ACE),Sodinokibi (REvil) Ransomware,2
+CVE-2018-13379 (Fortinet FortiOS LPE),Sodinokibi (REvil) Ransomware,2
+CVE-2021-21972 (VMware vCenter Server RCE),Sodinokibi (REvil) Ransomware,2
+CVE-2018-8453 (Microsoft Windows RCE),Sodinokibi (REvil) Ransomware,2
+CVE-2021-20016 (Accellion File Transfer Appliance RCE),Sodinokibi (REvil) Ransomware,2
