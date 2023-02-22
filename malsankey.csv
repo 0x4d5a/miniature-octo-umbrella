@@ -51,8 +51,8 @@ net user,REvil(Sodinokibi) Ransomware,2
 Netwire RAT,Cobalt Strike,2
 Netwire RAT,TA505,2
 NjRAT Builder,NjRAT,2
-njRAT,Cobalt Strike,2
-njRAT,TA542 (Cobalt Group),2
+NjRAT,Cobalt Strike,2
+NjRAT,TA542 (Cobalt Group),2
 PsExec,Maze Ransomware,2
 PsExec,REvil(Sodinokibi) Ransomware,2
 QakBot (QBot),Cobalt Strike,2
