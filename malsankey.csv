@@ -6,7 +6,7 @@ BlackNET Builder,Banking Trojans,2
 BlackNET Builder,BlackNET RAT,2
 BlackNET Builder,Ransomware variants,2
 Cobalt Strike,Maze Ransomware,2
-Cobalt Strike,REvil(Sodinokibi) Ransomware,2
+Cobalt Strike,Sodinokibi (REvil) Ransomware,2
 Cobalt Strike,TA505,2
 Cobalt Strike,TA542 (Cobalt Group),2
 Commands,net localgroup,2
@@ -40,28 +40,28 @@ Kaiten Builder,Mirai DDoS Botnet,2
 LimeRAT,Cobalt Strike,2
 LimeRAT,MuddyWater,2
 Mimikatz,Maze Ransomware,2
-Mimikatz,REvil(Sodinokibi) Ransomware,2
+Mimikatz,Sodinokibi (REvil) Ransomware,2
 NanoCore RAT Builder,NanoCore RAT,2
 NanoCore RAT,Carbanak,2
 NanoCore RAT,Cobalt Strike,2
 net localgroup,Maze Ransomware,2
-net localgroup,REvil(Sodinokibi) Ransomware,2
+net localgroup,Sodinokibi (REvil) Ransomware,2
 net user,Maze Ransomware,2
-net user,REvil(Sodinokibi) Ransomware,2
+net user,Sodinokibi (REvil) Ransomware,2
 Netwire RAT,Cobalt Strike,2
 Netwire RAT,TA505,2
 NjRAT Builder,NjRAT,2
 NjRAT,Cobalt Strike,2
 NjRAT,TA542 (Cobalt Group),2
 PsExec,Maze Ransomware,2
-PsExec,REvil(Sodinokibi) Ransomware,2
+PsExec,Sodinokibi (REvil) Ransomware,2
 QakBot (QBot),Cobalt Strike,2
 Quasar RAT,Cobalt Strike,2
 Quasar RAT,TA505,2
 Remcos RAT,Cobalt Strike,2
 Remcos RAT,TA542 (Cobalt Group),2
 Remote Desktop Protocol (RDP) Exploits,Maze Ransomware,2
-Remote Desktop Protocol (RDP) Exploits,REvil(Sodinokibi) Ransomware,2
+Remote Desktop Protocol (RDP) Exploits,Sodinokibi (REvil) Ransomware,2
 Rubella Macro Builder,Emotet,2
 Rubella Macro Builder,Qakbot,2
 Rubella Macro Builder,Trickbot,2
@@ -71,16 +71,16 @@ Silent Builder,Hancitor,2
 Silent Builder,Nemucod,2
 Snake Keylogger,TA542_MummySpider,2
 Software Vulnerabilities,Maze Ransomware,2
-Software Vulnerabilities,REvil(Sodinokibi) Ransomware,2
+Software Vulnerabilities,Sodinokibi (REvil) Ransomware,2
 Spearphishing with Attachment,APT28 (Fancy Bear),2
 Spearphishing with Attachment,APT33 (Elfin),2
 Spearphishing with Attachment,Carbanak,2
 Spearphishing with Attachment,Lazarus,2
 Spearphishing with Attachment,Maze Ransomware,2
-Spearphishing with Attachment,REvil(Sodinokibi) Ransomware,2
+Spearphishing with Attachment,Sodinokibi (REvil) Ransomware,2
 Spearphishing with Attachment,Snake Keylogger,2
 Spearphishing with Link,Maze Ransomware,2
-Spearphishing with Link,REvil(Sodinokibi) Ransomware,2
+Spearphishing with Link,Sodinokibi (REvil) Ransomware,2
 Tools,AndroRAT Binder,2
 Tools,BlackNET Builder,2
 Tools,Cobalt Strike,2
@@ -111,6 +111,55 @@ Warzone Builder,Warzone RAT,2
 Warzone RAT,Cobalt Strike,2
 Warzone RAT,FIN7,2
 wmic,Maze Ransomware,2
-wmic,REvil(Sodinokibi) Ransomware,2
+wmic,Sodinokibi (REvil) Ransomware,2
 xcopy,Maze Ransomware,2
-xcopy,REvil(Sodinokibi) Ransomware,2
+xcopy,Sodinokibi (REvil) Ransomware,2
+Tool,PowerShell Empire,2
+PowerShell Empire,Invoke-Mimikatz,2
+PowerShell Empire,Invoke-Shellcode,2
+PowerShell Empire,Invoke-TokenManipulation,2
+PowerShell Empire,Invoke-ReflectivePEInjection,2
+PowerShell Empire,Get-Keystrokes,2
+PowerShell Empire,Invoke-PsExec,2
+PowerShell Empire,Invoke-Phant0m,2
+PowerShell Empire,Invoke-Portscan,2
+PowerShell Empire,Invoke-Netview,2
+PowerShell Empire,Invoke-AllChecks,2
+PowerShell Empire,Invoke-WMICommand,2
+PowerShell Empire,Invoke-SMBExec,2
+PowerShell Empire,Invoke-MassMimikatz,2
+PowerShell Empire,Invoke-MassMimikatzEx,2
+PowerShell Empire,Invoke-DllInjection,2
+PowerShell Empire,Invoke-SocksProxy,2
+PowerShell Empire,Get-Proxy,2
+PowerShell Empire,Invoke-DumpCleartext,2
+PowerShell Empire,Invoke-ShellcodeMSBuild,2
+PowerShell Empire,Invoke-DCOM,2
+Invoke-Mimikatz,Ryuk Ransomware,2
+Invoke-Mimikatz,Conti Ransomware,2
+Invoke-Mimikatz,RagnarLocker Ransomware,2
+Invoke-Mimikatz,Egregor Ransomware,2
+Invoke-Shellcode,Ryuk Ransomware,2
+Invoke-Shellcode,Conti Ransomware,2
+Invoke-Shellcode,Maze Ransomware,2
+Invoke-Shellcode,Sodinokibi (REvil) Ransomware,2
+Invoke-TokenManipulation,Ryuk Ransomware,2
+Invoke-TokenManipulation,Conti Ransomware,2
+Invoke-TokenManipulation,Egregor Ransomware,2
+Invoke-TokenManipulation,Maze Ransomware,2
+Invoke-ReflectivePEInjection,Ryuk Ransomware,2
+Invoke-ReflectivePEInjection,Conti Ransomware,2
+Invoke-ReflectivePEInjection,Maze Ransomware,2
+Invoke-ReflectivePEInjection,Sodinokibi (REvil) Ransomware,2
+Get-Keystrokes,Ryuk Ransomware,2
+Get-Keystrokes,Conti Ransomware,2
+Get-Keystrokes,Maze Ransomware,2
+Get-Keystrokes,Sodinokibi (REvil) Ransomware,2
+Invoke-PsExec,Ryuk Ransomware,2
+Invoke-PsExec,Conti Ransomware,2
+Invoke-PsExec,Sodinokibi (REvil) Ransomware,2
+Invoke-PsExec,Maze Ransomware,2
+Invoke-Phant0m,Ryuk Ransomware,2
+Invoke-Phant0m,Conti Ransomware,2
+Invoke-Phant0m,Maze Ransomware,2
+Invoke-Phant0m,Sodinokibi (REvil) Ransomware,2
