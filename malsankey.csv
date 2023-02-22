@@ -163,3 +163,49 @@ Invoke-Phant0m,Ryuk Ransomware,2
 Invoke-Phant0m,Conti Ransomware,2
 Invoke-Phant0m,Maze Ransomware,2
 Invoke-Phant0m,Sodinokibi (REvil) Ransomware,2
+Invoke-Portscan,DoppelPaymer Ransomware,2
+Invoke-Portscan,Ryuk Ransomware,2
+Invoke-Portscan,Conti Ransomware,2
+Invoke-Netview,Ryuk Ransomware,2
+Invoke-Netview,Conti Ransomware,2
+Invoke-Netview,Sodinokibi (REvil) Ransomware,2
+Invoke-AllChecks,Ryuk Ransomware,2
+Invoke-AllChecks,Conti Ransomware,2
+Invoke-AllChecks,Sodinokibi (REvil) Ransomware,2
+Invoke-WMICommand,Ryuk Ransomware,2
+Invoke-WMICommand,Conti Ransomware,2
+Invoke-WMICommand,Sodinokibi (REvil) Ransomware,2
+Invoke-SMBExec,Ryuk Ransomware,2
+Invoke-SMBExec,Conti Ransomware,2
+Invoke-SMBExec,Sodinokibi (REvil) Ransomware,2
+Invoke-MassMimikatz,Ryuk Ransomware,2
+Invoke-MassMimikatz,Conti Ransomware,2
+Invoke-MassMimikatz,Maze Ransomware,2
+Invoke-MassMimikatz,Sodinokibi (REvil) Ransomware,2
+Invoke-MassMimikatzEx,Ryuk Ransomware,2
+Invoke-MassMimikatzEx,Conti Ransomware,2
+Invoke-MassMimikatzEx,Maze Ransomware,2
+Invoke-MassMimikatzEx,Sodinokibi (REvil) Ransomware,2
+Invoke-DllInjection,Ryuk Ransomware,2
+Invoke-DllInjection,Conti Ransomware,2
+Invoke-DllInjection,Maze Ransomware,2
+Invoke-DllInjection,Sodinokibi (REvil) Ransomware,2
+Invoke-SocksProxy,Ryuk Ransomware,2
+Invoke-SocksProxy,Conti Ransomware,2
+Invoke-SocksProxy,Maze Ransomware,2
+Invoke-SocksProxy,Sodinokibi (REvil) Ransomware,2
+Get-Proxy,Ryuk Ransomware,2
+Get-Proxy,Conti Ransomware,2
+Get-Proxy,Maze Ransomware,2
+Get-Proxy,Sodinokibi (REvil) Ransomware,2
+Invoke-DumpCleartext,Ryuk Ransomware,2
+Invoke-DumpCleartext,Conti Ransomware,2
+Invoke-DumpCleartext,Sodinokibi (REvil) Ransomware,2
+Invoke-ShellcodeMSBuild,Ryuk Ransomware,2
+Invoke-ShellcodeMSBuild,Conti Ransomware,2
+Invoke-ShellcodeMSBuild,Maze Ransomware,2
+Invoke-ShellcodeMSBuild,Sodinokibi (REvil) Ransomware,2
+Invoke-DCOM,Ryuk Ransomware,2
+Invoke-DCOM,Conti Ransomware,2
+Invoke-DCOM,Maze Ransomware,2
+Invoke-DCOM,Sodinokibi (REvil) Ransomware,2
