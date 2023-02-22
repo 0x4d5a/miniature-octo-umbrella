@@ -8,12 +8,12 @@ Snake Keylogger,TA542_MummySpider,2
 Email Phishing,QakBot,2
 Email Phishing,SocGhoulish,4
 Email Phishing,Maze Ransomware Group,2
-TTPs, Email Phishing,2
-TTPs,Remote Desktop Protocol Exploits,2
+TTPs,Email Phishing,2
+TTPs,Remote Desktop Protocol (RDP) Exploits,2
 TTPs,Spearphishing with Attachment,2
 TTPs,Spearphishing with Link,2
 TTPs,Software Vulnerabilities,2
-Remote Desktop Protocol Exploits,Maze Ransomware Group,2
+Remote Desktop Protocol (RDP) Exploits,Maze Ransomware Group,2
 Spearphishing with Attachment,Maze Ransomware Group,2
 Spearphishing with Link,Maze Ransomware Group,2
 Software Vulnerabilities, Maze Ransomware Group,2
@@ -27,3 +27,18 @@ Commands,net user,2
 Commands,net localgroup,2
 Commands,wmic,2
 Commands,xcopy,2
+net user,Maze Ransomware Group,2
+net localgroup,Maze Ransomware Group,2
+wmic,Maze Ransomware Group,2
+xcopy,Maze Ransomware Group,2
+Software Vulnerabilities, REvil Ransomware Group,2
+Spearphishing with Attachment,REvil Ransomware Group,2
+Spearphishing with Link,REvil Ransomware Group,2
+Remote Desktop Protocol (RDP) Exploits,REvil Ransomware Group,2
+Cobalt Strike,REvil Ransomware Group,2
+Mimikatz,REvil Ransomware Group,2
+PsExec,REvil Ransomware Group,2
+net user,REvil Ransomware Group,2
+net localgroup,REvil Ransomware Group,2
+wmic,REvil Ransomware Group,2
+xcopy,REvil Ransomware Group,2
