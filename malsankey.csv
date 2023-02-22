@@ -3,9 +3,12 @@ Email Phishing,Redline Stealer,2
 Email Phishing,Trickbot,2
 Email Phishing,Silent Builder,2
 Silent Builder,Emotet,2
+Silent Builder,Hancitor,2
+Silent Builder,Nemucod,2
+Silent Builder,Gozi (Ursnif),2
 Emotet,TA542_MummySpider,2
 Snake Keylogger,TA542_MummySpider,2
-Email Phishing,QakBot,2
+Email Phishing,QakBot (QBot),2
 Email Phishing,SocGhoulish,4
 Email Phishing,Maze Ransomware Group,2
 TTPs,Email Phishing,2
@@ -16,7 +19,7 @@ TTPs,Software Vulnerabilities,2
 Remote Desktop Protocol (RDP) Exploits,Maze Ransomware Group,2
 Spearphishing with Attachment,Maze Ransomware Group,2
 Spearphishing with Link,Maze Ransomware Group,2
-Software Vulnerabilities, Maze Ransomware Group,2
+Software Vulnerabilities,Maze Ransomware Group,2
 Tools,Cobalt Strike,2
 Tools,Mimikatz,2
 Tools,PsExec,2
@@ -31,15 +34,45 @@ net user,Maze Ransomware Group,2
 net localgroup,Maze Ransomware Group,2
 wmic,Maze Ransomware Group,2
 xcopy,Maze Ransomware Group,2
-Software Vulnerabilities, REvil Ransomware Group,2
-Spearphishing with Attachment,REvil Ransomware Group,2
-Spearphishing with Link,REvil Ransomware Group,2
-Remote Desktop Protocol (RDP) Exploits,REvil Ransomware Group,2
-Cobalt Strike,REvil Ransomware Group,2
-Mimikatz,REvil Ransomware Group,2
-PsExec,REvil Ransomware Group,2
-net user,REvil Ransomware Group,2
-net localgroup,REvil Ransomware Group,2
-wmic,REvil Ransomware Group,2
-xcopy,REvil Ransomware Group,2
+Software Vulnerabilities,REvil(Sodinokibi) Ransomware Group,2
+Spearphishing with Attachment,REvil(Sodinokibi) Ransomware Group,2
+Spearphishing with Link,REvil(Sodinokibi) Ransomware Group,2
+Remote Desktop Protocol (RDP) Exploits,REvil(Sodinokibi) Ransomware Group,2
+Cobalt Strike,REvil(Sodinokibi) Ransomware Group,2
+Mimikatz,REvil(Sodinokibi) Ransomware Group,2
+PsExec,REvil(Sodinokibi) Ransomware Group,2
+net user,REvil(Sodinokibi) Ransomware Group,2
+net localgroup,REvil(Sodinokibi) Ransomware Group,2
+wmic,REvil(Sodinokibi) Ransomware Group,2
+xcopy,REvil(Sodinokibi) Ransomware Group,2
 Spearphishing with Attachment,Snake Keylogger,2
+Spearphishing with Attachment,APT28 (Fancy Bear),2
+Spearphishing with Attachment,APT33 (Elfin),2
+Spearphishing with Attachment,Lazarus Group,2
+Spearphishing with Attachment,Carbanak,2
+Rubella Macro Builder,Emotet,2
+Rubella Macro Builder,Trickbot,2
+Rubella Macro Builder,Qakbot,2
+Viotto Binder,DarkComet RAT,2
+Viotto Binder,NanoCore RAT,2
+Viotto Binder,Agent Tesla,2
+Warzone Builder,Warzone RAT,2
+Warzone Builder,Ransomware variants,2
+Warzone Builder,Cryptocurrency miners,2
+BlackNET Builder,BlackNET RAT,2
+BlackNET Builder,Banking Trojans,2
+BlackNET Builder,Ransomware variants,2
+Kaiten Builder,Kaiten DDoS Botnet,2
+Kaiten Builder,Mirai DDoS Botnet,2
+AndroRAT Binder,AndroRAT Android RAT,2
+Inno Setup Builder,Cerber ransomware,2
+Inno Setup Builder,Locky ransomware,2
+Inno Setup Builder,Kovter Trojan,2
+VBSWG Malware Builder,VBSWG Malware,2
+VBSWG Malware Builder,Dridex Banking Trojan,2
+NjRAT Builder,NjRAT,2
+NanoCore RAT Builder,NanoCore RAT,2
+Dridex,Cobalt Strike,2
+Emotet,Cobalt Strike,2
+Trickbot,Cobalt Strike,2
+QakBot (QBot),Cobalt Strike,2
